@@ -279,7 +279,7 @@
 
 1. Work with package module streams
 
-    * RHEL 8 introduced the concept of Application Streams. Components made available as Application Streams can be packaged as modules or RPM packages and are delivered through the AppStream repository in RHEL 8. Module streams represent versions of the Application Stream components. Only one module stream can be active at a particular time, but it allows multiple different versions to be available in the same dnf repository.
+    * RHEL 8&9 introduced the concept of Application Streams. Components made available as Application Streams can be packaged as modules or RPM packages and are delivered through the AppStream repository in RHEL 8. Module streams represent versions of the Application Stream components. Only one module stream can be active at a particular time, but it allows multiple different versions to be available in the same dnf repository.
     
     * To view modules:
         ```shell
