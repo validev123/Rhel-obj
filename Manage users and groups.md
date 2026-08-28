@@ -2,7 +2,7 @@
 
 1. Create, delete, and modify local user accounts
 
-    * RHEL 8 supports three user account types: root, normal and service. The root user has full access to all services and administrative functions. A normal user can run applications and programs that they are authorised to execute. Service accounts are responsible for taking care of the installed services.
+    * RHEL 8&9&10 supports three user account types: root, normal and service. The root user has full access to all services and administrative functions. A normal user can run applications and programs that they are authorised to execute. Service accounts are responsible for taking care of the installed services.
 
     * The `/etc/passwd` file contains vital user login data.
 
